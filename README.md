@@ -10,7 +10,7 @@
 
 张建华老师的个人网站http://zzuzjh.com/
 
-张建华老师的PPThttps://efgv5pw5jb.feishu.cn/file/boxcnTWd2ybMpP1UEQ4gSW6Idhe
+张建华老师的PPT https://efgv5pw5jb.feishu.cn/file/boxcnTWd2ybMpP1UEQ4gSW6Idhe
 
 2.25日课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccnjxpbzYfKmtkApiPtO9iDzf
 
