@@ -6,7 +6,9 @@
 笔记内容为上课实记 目前未经整理润色 词汇晦涩不易理解 
 
 请见谅，取自己所需内容便是
-后期作者也许会将生产脑图附在扩展笔记中  
+后期作者也许会将生产脑图附在扩展笔记中 
+
+张建华老师的个人网站http://zzuzjh.com/
 
 2.25日课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccnjxpbzYfKmtkApiPtO9iDzf
 
@@ -21,3 +23,5 @@
 3.14日课堂笔记（位运算）https://efgv5pw5jb.feishu.cn/docs/doccnf26lHYLv61cDJ3njbM7BPe
 
 3.18日-4.10日课堂笔记 （oop）https://efgv5pw5jb.feishu.cn/docs/doccntdbgJZ0aBZOtEyJ6w6Gpzg
+
+4.11日课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccn2y4gTlZmNNiN6AVqUMB5Hf#
