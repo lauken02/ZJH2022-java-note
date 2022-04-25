@@ -31,3 +31,6 @@
 4.11日+4.15+4.18日课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccn2y4gTlZmNNiN6AVqUMB5Hf#
 
 4.22日 报错实例讲解 课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccnzC8efmL33Kj3g11zIALUth#
+
+4.25日 GUI讲解 课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccnXh0rhDHkraWgnDUD2FliVb
+
