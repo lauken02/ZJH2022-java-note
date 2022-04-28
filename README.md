@@ -20,7 +20,7 @@
 
 3.04日课堂笔记（第一次作业 蛇形循环）https://efgv5pw5jb.feishu.cn/docs/doccnzp1AHdS2jK97oVb5g3Rw6c
 
-3.07日课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccnjD5IXNhk42qBt4xv2hcpzc
+3.07日课堂笔记 （java语言基础）https://efgv5pw5jb.feishu.cn/docs/doccnjD5IXNhk42qBt4xv2hcpzc
 
 3.11日课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccnW7y95huDI7IHMJ6jxefCSe
 
@@ -28,9 +28,9 @@
 
 3.18日-4.10日课堂笔记 （OOP+构造函数... ...）https://efgv5pw5jb.feishu.cn/docs/doccntdbgJZ0aBZOtEyJ6w6Gpzg
 
-4.11日+4.15+4.18日课堂笔记 包+错误例外https://efgv5pw5jb.feishu.cn/docs/doccn2y4gTlZmNNiN6AVqUMB5Hf#
+4.11日+4.15+4.18日课堂笔记 （包+错误例外）https://efgv5pw5jb.feishu.cn/docs/doccn2y4gTlZmNNiN6AVqUMB5Hf#
 
-4.22日 报错实例讲解 课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccnzC8efmL33Kj3g11zIALUth#
+4.22日 课堂笔记 （报错实例讲解) https://efgv5pw5jb.feishu.cn/docs/doccnzC8efmL33Kj3g11zIALUth#
 
-4.25日 GUI讲解 课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccnXh0rhDHkraWgnDUD2FliVb
+4.25日 课堂笔记 (GUI讲解)https://efgv5pw5jb.feishu.cn/docs/doccnXh0rhDHkraWgnDUD2FliVb
 
