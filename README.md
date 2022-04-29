@@ -34,3 +34,5 @@
 
 4.25日 课堂笔记 (GUI讲解)https://efgv5pw5jb.feishu.cn/docs/doccnXh0rhDHkraWgnDUD2FliVb
 
+4.29日 课堂笔记（GUI实例讲解）https://efgv5pw5jb.feishu.cn/docs/doccnsQ0bx6W3xWgsQVtotvMYdk
+
