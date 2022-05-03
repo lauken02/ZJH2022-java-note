@@ -22,7 +22,7 @@
 
 3.07日课堂笔记 （java语言基础）https://efgv5pw5jb.feishu.cn/docs/doccnjD5IXNhk42qBt4xv2hcpzc
 
-3.11日课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccnW7y95huDI7IHMJ6jxefCSe
+3.11日课堂笔记（阶梯电价+健康BMI 实例）https://efgv5pw5jb.feishu.cn/docs/doccnW7y95huDI7IHMJ6jxefCSe
 
 3.14日课堂笔记（位运算）https://efgv5pw5jb.feishu.cn/docs/doccnf26lHYLv61cDJ3njbM7BPe
 
