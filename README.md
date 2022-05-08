@@ -18,7 +18,7 @@
 
 2.28日课堂笔记https://efgv5pw5jb.feishu.cn/docs/doccnKFMphtttKUFTywAjrczh8e
 
-3.04日课堂笔记（第一次作业 蛇形循环）https://efgv5pw5jb.feishu.cn/docs/doccnzp1AHdS2jK97oVb5g3Rw6c
+3.04日课堂笔记（第一次作业 蛇形循环+CMD快捷命令）https://efgv5pw5jb.feishu.cn/docs/doccnzp1AHdS2jK97oVb5g3Rw6c
 
 3.07日课堂笔记 （java语言基础）https://efgv5pw5jb.feishu.cn/docs/doccnjD5IXNhk42qBt4xv2hcpzc
 
