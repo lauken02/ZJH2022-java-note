@@ -30,7 +30,7 @@
 
 4.11日+4.15+4.18日课堂笔记 （包+错误例外）https://efgv5pw5jb.feishu.cn/docs/doccn2y4gTlZmNNiN6AVqUMB5Hf#
 
-4.22日 课堂笔记 （报错实例讲解) https://efgv5pw5jb.feishu.cn/docs/doccnzC8efmL33Kj3g11zIALUth#
+4.22日 课堂笔记 （四则运算 报错实例讲解) https://efgv5pw5jb.feishu.cn/docs/doccnzC8efmL33Kj3g11zIALUth#
 
 4.25日 课堂笔记 (GUI讲解)https://efgv5pw5jb.feishu.cn/docs/doccnXh0rhDHkraWgnDUD2FliVb
 
